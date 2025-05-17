@@ -33,4 +33,4 @@ print("d:", d)
 ![Screenshot 2025-05-17 135138](https://github.com/user-attachments/assets/231f98ec-1d03-4b80-8c65-a3e345e4fb2a)
 
 ## Result
-Thus the program executed successfully
+Thus the program executed successfully.
