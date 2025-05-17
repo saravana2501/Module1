@@ -19,4 +19,4 @@ print(men_stepped_on_the_moon)
 
 
 ## Result
-Thus the program executed successfully
+Thus the program executed successfully.
