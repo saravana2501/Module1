@@ -10,11 +10,13 @@ If true, print "EVEN".
 Else, print "ODD".
 End the program.
 🧾 Program
+```
 a=int(input())
 if(a%2==0):
     print("EVEN")
 else:
     print("ODD")
+```
 Output
 Screenshot 2025-05-17 134510
 
